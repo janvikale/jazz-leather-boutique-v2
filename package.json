@@ -4,6 +4,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "type": "module",
   "dependencies": {
     "@vitejs/plugin-react": "latest",
     "vite": "latest",
